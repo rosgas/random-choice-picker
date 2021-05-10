@@ -1,5 +1,5 @@
 # random-choice-picker
-A little project for picking random choices, built using HTML5, CSS3 and Javascript without the use of frameworks or libraries.  This is part of the 50projects/25days repository inspired by 50projects/50days by Brad Traversy and Florin Pop.
+A responsive little project for picking random choices, built using HTML5, CSS3 and Javascript without the use of frameworks or libraries.  This is part of the 50projects/25days repository inspired by 50projects/50days by Brad Traversy and Florin Pop.
 
 Choices can be written in the text area separated by a comma. Under the text area, tags will be generated as soon as you start to type. 
 

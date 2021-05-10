@@ -6,4 +6,5 @@ Choices can be written in the text area separated by a comma. Under the text are
 Then pressing enter or picking the button an animation effect will start on the tags and this is going to stop on a random item from your list. 
 
 <a href="https://rosgas.github.io/50components-25days/Random%20choice%20piker/pj-13.html">DEMO</a>
-<img src= "" alt="" />
+
+<img src= "random-picker-preview.png" alt="Random picker preview" />
